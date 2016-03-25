@@ -1,0 +1,38 @@
+/**{*/
+/*    padding: 0;*/
+/*}*/
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+#main {
+    width: 100%;
+    padding-bottom: 20px;
+    display: inline-block;
+    background-color: #2FA76A;
+}
+
+.heading {
+    background-color: #B43A03;
+    font-family: 'Cinzel', serif;
+    font-size: 800%;
+    text-align: center;
+    text-shadow: 2px 2px #DE5111;
+    color: #EE7843;
+    padding-top: 10px;
+    display: inline-block;
+    width: 100%;
+}
+
+#linkBun {
+    background-color: #0B906F;
+    box-shadow: 10px 10px 10px #006632;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 120px;
+    display: inline-block;
+}
+/*#bottom{*/
+/*    padding-top: 10px;*/
+/*}*/
